@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Services Hospital Lahore",
+    "name_urdu": "سروسز ہسپتال لاہور",
+    "city": "Lahore",
+    "address": "Jail Road, Lahore",
+    "lat": 31.5497,
+    "lng": 74.3436,
+    "phone": "042-99231386",
+    "cost_tier": 1,
+    "has_er": true,
+    "open_24h": true,
+    "specialties": ["general", "pediatrics", "emergency", "surgery"]
+  },
+  {
+    "name": "Mayo Hospital Lahore",
+    "name_urdu": "مایو ہسپتال لاہور",
+    "city": "Lahore",
+    "address": "Nila Gumbad, Lahore",
+    "lat": 31.5651,
+    "lng": 74.3094,
+    "phone": "042-99231386",
+    "cost_tier": 1,
+    "has_er": true,
+    "open_24h": true,
+    "specialties": ["general", "oncology", "neurology", "emergency"]
+  },
+  {
+    "name": "Lahore General Hospital",
+    "name_urdu": "لاہور جنرل ہسپتال",
+    "city": "Lahore",
+    "address": "Ferozepur Road, Lahore",
+    "lat": 31.5089,
+    "lng": 74.3267,
+    "phone": "042-35761999",
+    "cost_tier": 1,
+    "has_er": true,
+    "open_24h": true,
+    "specialties": ["general", "surgery", "obstetrics", "emergency"]
+  }
+]
